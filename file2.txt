@@ -1,0 +1,14 @@
+code java
+kjshdjijadjn
+
+
+GIT 
+
+
+FILE >>>>   WORKING AREA
+ 
+GIT ADD   STAGING  
+
+GIT COMMIT FILE   LOCAL REPO   
+
+GIT PUSH   
